@@ -188,8 +188,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 **Samy - Nyx**
 
-- GitHub: [@yourusername](https://github.com/Nyx-Off)
-- Project Link: [https://github.com/yourusername/WebPassCodeGenerator](https://github.com/Nyx-Off/WebPassCodeGenerator)
+- GitHub: [@Nyx-Off](https://github.com/Nyx-Off)
+- WebSite Link: [https://bensalemdev.fr](https://bensalemdev.fr)
 
 ## 🙏 Acknowledgments
 
