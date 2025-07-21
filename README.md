@@ -12,7 +12,7 @@
 
 **A cyberpunk-themed password generator with real-time strength analysis and QR code generation**
 
-[Live Demo](https://yourdemo.com) • [Report Bug](https://github.com/yourusername/WebPassCodeGenerator/issues) • [Request Feature](https://github.com/yourusername/WebPassCodeGenerator/issues)
+[Report Bug](https://github.com/Nyx-Off/WebPassCodeGenerator/issues) • [Request Feature](https://github.com/Nyx-Off/WebPassCodeGenerator/issues)
 
 </div>
 
@@ -170,37 +170,6 @@ this.charsets = {
 };
 ```
 
-## 📸 Screenshots
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/yourusername/WebPassCodeGenerator/main/assets/screenshots/main.png" width="400">
-      <br>
-      <em>Main Interface</em>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/yourusername/WebPassCodeGenerator/main/assets/screenshots/qrcode.png" width="400">
-      <br>
-      <em>QR Code Generation</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/yourusername/WebPassCodeGenerator/main/assets/screenshots/strength.png" width="400">
-      <br>
-      <em>Strength Analysis</em>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/yourusername/WebPassCodeGenerator/main/assets/screenshots/history.png" width="400">
-      <br>
-      <em>Password History</em>
-    </td>
-  </tr>
-</table>
-</div>
-
 ## 🤝 Contributing
 
 Contributions are what make the open source community amazing! Any contributions you make are **greatly appreciated**.
@@ -219,8 +188,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 **Samy - Nyx**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Project Link: [https://github.com/yourusername/WebPassCodeGenerator](https://github.com/yourusername/WebPassCodeGenerator)
+- GitHub: [@yourusername](https://github.com/Nyx-Off)
+- Project Link: [https://github.com/yourusername/WebPassCodeGenerator](https://github.com/Nyx-Off/WebPassCodeGenerator)
 
 ## 🙏 Acknowledgments
 
@@ -233,9 +202,9 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/WebPassCodeGenerator?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/WebPassCodeGenerator?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/WebPassCodeGenerator?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Nyx-Off/WebPassCodeGenerator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Nyx-Off/WebPassCodeGenerator?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Nyx-Off/WebPassCodeGenerator?style=social)
 
 </div>
 
