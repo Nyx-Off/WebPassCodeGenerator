@@ -39,10 +39,7 @@
 
 ## 🚀 Quick Start
 
-### Option 1: Use Online (Easiest)
-Visit the live demo: [https://nyx-off.github.io/WebPassCodeGenerator](https://nyx-off.github.io/WebPassCodeGenerator)
-
-### Option 2: Download & Run Locally
+### Option 1: Download & Run Locally
 ```bash
 # Clone the repository
 git clone https://github.com/Nyx-Off/WebPassCodeGenerator.git
@@ -56,7 +53,7 @@ start index.html # Windows
 xdg-open index.html # Linux
 ```
 
-### Option 3: Host on Web Server
+### Option 2: Host on Web Server
 ```bash
 # Using Python
 python -m http.server 8000
