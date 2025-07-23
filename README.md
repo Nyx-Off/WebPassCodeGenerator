@@ -13,8 +13,7 @@
 **🎭 A cyberpunk-themed password generator with real-time strength analysis and QR code generation**
 
 **100% Client-Side • No Installation Required • Works Offline**
-
-[Live Demo](https://nyx-off.github.io/WebPassCodeGenerator) • [Report Bug](https://github.com/Nyx-Off/WebPassCodeGenerator/issues) • [Request Feature](https://github.com/Nyx-Off/WebPassCodeGenerator/issues)
+[Report Bug](https://github.com/Nyx-Off/WebPassCodeGenerator/issues) • [Request Feature](https://github.com/Nyx-Off/WebPassCodeGenerator/issues)
 
 </div>
 
